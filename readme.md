@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=17+Ya%C5%9F%C4%B1nda+Yaz%C4%B1l%C4%B1mc%C4%B1;Game+Modding+%26+Web+Development;Code+is+Poetry%2C+Logic+is+Art;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=17+Ya%C5%9F%C4%B1nda+Senior+Developer;4%2B+Y%C4%B1l+Kodlama+Deneyimi;Game+Modding+%26+Web+Development;17%2B+Programming+Languages;Code+is+Poetry%2C+Logic+is+Art;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
@@ -18,8 +18,9 @@
 const arda = {
     age: 17,
     location: "İzmir, Turkey 🇹🇷",
+    experience: "4+ years of coding journey",
     passion: "Turning code into creativity",
-    current_focus: ["Game Modding", "Web Development", "Open Source"],
+    current_focus: ["Game Modding", "Web Development", "Open Source", "AI/ML"],
     fun_fact: "I debug code faster than I debug my life 🐛",
     motto: "Code is poetry, logic is art ✨"
 };
@@ -29,11 +30,11 @@ const arda = {
 
 ### 💫 What I'm Up To
 
-🔭 Currently working on **innovative web applications**  
-🌱 Learning **advanced algorithms & system design**  
-👯 Looking to collaborate on **open source projects**  
-💬 Ask me about **JavaScript, Python, Lua, or anything tech**  
-⚡ Fun fact: **I can code for 12 hours straight with just coffee** ☕
+🔭 Currently working on **advanced AI/ML projects & game engines**  
+🌱 Learning **blockchain development & cloud architecture**  
+👯 Looking to collaborate on **cutting-edge open source projects**  
+💬 Ask me about **any programming language or tech stack**  
+⚡ Fun fact: **I've been coding since I was 13 - it's my superpower** 🦸‍♂️
 
 </div>
 
@@ -44,16 +45,16 @@ const arda = {
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,php,lua,rust,go,ruby,kotlin" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,php,lua,rust,go,ruby,kotlin,swift,dart,scala,r" />
 
 ### Frontend Technologies  
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,materialui,flutter" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mysql,postgresql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,mysql,postgresql,mongodb,redis,firebase,supabase" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify" />
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,kubernetes,aws,vercel,netlify,linux,bash,vim" />
 
 </div>
 
@@ -179,17 +180,17 @@ const arda = {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Languages-13+-00FFFF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Languages-17+-00FFFF?style=for-the-badge&labelColor=black" />
 <br />
 <strong>Programming Languages</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Projects-5+-FF00FF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Projects-15+-FF00FF?style=for-the-badge&labelColor=black" />
 <br />
 <strong>Completed Projects</strong>  
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-FFFF00?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-FFFF00?style=for-the-badge&labelColor=black" />
 <br />
 <strong>Coding Experience</strong>
 </td>
