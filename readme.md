@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=17+Ya%C5%9F%C4%B1nda+Senior+Developer;5%2B+Y%C4%B1l+Kodlama+Deneyimi;Game+Modding+%26+Web+Development;20%2B+Programming+Languages;Code+is+Poetry%2C+Logic+is+Art;Turning+Ideas+Into+Reality;GitHub+Member+Since+2020" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=17+Ya%C5%9F%C4%B1nda+Full+Stack+Developer;5%2B+Y%C4%B1l+Kodlama+Deneyimi;Game+Modding+%26+Web+Development;25%2B+Programming+Languages;ERP+%26+Enterprise+Solutions;Turning+Ideas+Into+Reality;GitHub+Member+Since+2020" alt="Typing SVG" />
 
 </div>
 
@@ -21,11 +21,13 @@ const arda = {
     experience: "5+ years of coding journey",
     github_since: "2020 🎂",
     passion: "Turning code into creativity",
-    current_focus: ["Game Modding", "Web Development", "Open Source", "AI/ML"],
+    specialties: ["Full Stack Development", "Game Modding", "ERP Systems", "AI/ML"],
+    current_focus: ["Enterprise Solutions", "Cloud Architecture", "Open Source", "Mobile Development"],
     fun_fact: "I debug code faster than I debug my life 🐛",
     motto: "Code is poetry, logic is art ✨",
-    languages_mastered: "20+",
-    projects_completed: "25+"
+    languages_mastered: "25+",
+    projects_completed: "30+",
+    daily_drive: "Building solutions that matter"
 };
 ```
 
@@ -33,12 +35,13 @@ const arda = {
 
 ### 💫 What I'm Up To
 
-🔭 Currently working on **advanced AI/ML projects & game engines**  
-🌱 Learning **blockchain development & cloud architecture**  
-👯 Looking to collaborate on **cutting-edge open source projects**  
-💬 Ask me about **any programming language or tech stack**  
+🔭 Currently working on **ERP systems & enterprise-grade applications**  
+🌱 Learning **blockchain development, microservices & DevOps**  
+👯 Looking to collaborate on **innovative open source projects**  
+💬 Ask me about **full stack development, game engines, or any tech stack**  
 ⚡ Fun fact: **I've been coding since I was 12 - it's my superpower** 🦸‍♂️  
-🎯 **5+ years on GitHub** building, learning, and innovating
+🎯 **5+ years on GitHub** building, learning, and innovating  
+🏆 **Specialized in enterprise solutions & scalable architectures**
 
 </div>
 
@@ -48,25 +51,71 @@ const arda = {
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,php,lua,rust,go,ruby,kotlin,swift,dart,scala,r" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,c,php,lua,rust,go,ruby,kotlin,swift,dart,scala,r,perl,haskell,elixir" />
 
-### Frontend Technologies  
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,materialui,flutter" />
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,materialui,flutter,redux,vite" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,mysql,postgresql,mongodb,redis,firebase,supabase" />
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,mysql,postgresql,mongodb,redis,firebase,supabase,graphql,prisma" />
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,kubernetes,aws,vercel,netlify,linux,bash,vim" />
+### 🔧 DevOps, Tools & Enterprise
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,jenkins,gitlab,vscode,idea,figma,postman,linux,bash,vim" />
+
+### 🎮 Game Development & Modding
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender" />
 
 </div>
 
+---
+
+## 💼 Professional Experience
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ERP_Systems-FF6B35?style=for-the-badge&logo=sap&logoColor=white" />
+<br />
+<strong>Enterprise Resource Planning</strong>
+<br />
+<sub>Custom ERP solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white" />
+<br />
+<strong>Full Stack Development</strong>
+<br />
+<sub>End-to-end solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Mobile_Dev-95E1D3?style=for-the-badge&logo=flutter&logoColor=black" />
+<br />
+<strong>Mobile Applications</strong>
+<br />
+<sub>Cross-platform apps</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Game_Modding-F38181?style=for-the-badge&logo=unity&logoColor=white" />
+<br />
+<strong>Game Development</strong>
+<br />
+<sub>Mods & custom engines</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FFFF&fire_color=FF00FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -86,6 +135,7 @@ const arda = {
 - 📱 Responsive design  
 - 💾 Local storage integration
 - ⚡ Lightning fast performance
+- 🎨 Beautiful UI/UX
 
 <div align="center">
 
@@ -103,6 +153,7 @@ const arda = {
 - 📐 Advanced mathematical operations
 - 🔧 Clean, intuitive interface
 - 📱 Mobile-first design
+- ⚡ Real-time calculations
 
 <div align="center">
 
@@ -122,26 +173,30 @@ const arda = {
 - 💳 Secure payment integration
 - 🔍 Advanced search & filters  
 - 📊 Admin dashboard
+- 📦 Inventory management
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](http://bilgisayarparcasisatan.somee.com/)
+[![GitHub](https://img.shields.io/badge/View_Code-FF00FF?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
 </td>
 <td width="50%">
 
-### 🎮 Game Mods
-**Various Gaming Projects**
+### 🎮 Game Mods & Engines
+**Gaming Projects Portfolio**
 - 🎯 Custom game mechanics
 - 🎨 Enhanced visual effects  
 - ⚙️ Performance optimizations
 - 🔧 Modding frameworks
+- 🚀 Engine integrations
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FFFF00?style=for-the-badge&logo=github&logoColor=black)](#)
+[![Showcase](https://img.shields.io/badge/Showcase-FF6B35?style=for-the-badge&logo=steam&logoColor=white)](#)
 
 </div>
 
@@ -157,25 +212,25 @@ const arda = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geoarda&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFF00&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geoarda&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFF00&area=true&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoarda&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoarda&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Stats
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=geoarda&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=geoarda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 </div>
 
@@ -184,22 +239,22 @@ const arda = {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Languages-20+-00FFFF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Languages-25+-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
 <br />
 <strong>Programming Languages</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Projects-25+-FF00FF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Projects-30+-4ECDC4?style=for-the-badge&labelColor=1a1a2e" />
 <br />
 <strong>Completed Projects</strong>  
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-FFFF00?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-95E1D3?style=for-the-badge&labelColor=1a1a2e" />
 <br />
 <strong>Coding Experience</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/GitHub-Since%202020-00FF88?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/GitHub-Since%202020-F38181?style=for-the-badge&labelColor=1a1a2e" />
 <br />
 <strong>GitHub Journey</strong>
 </td>
@@ -216,24 +271,101 @@ const arda = {
 
 ```mermaid
 timeline
-    title 5 Years of Innovation
-    2020 : Started GitHub Journey
-         : First repositories
-         : Learning fundamentals
-    2021 : Built first web apps
-         : Explored game modding
-         : 5+ languages mastered
-    2022 : Advanced projects
-         : Open source contributions
-         : 10+ languages
-    2023 : Full-stack expertise
-         : Complex applications
-         : 15+ languages
-    2024-2025 : Senior developer skills
-              : AI/ML integration
-              : 20+ languages
-              : 25+ projects completed
+    title 5 Years of Innovation & Growth
+    2020 : 🎯 Started GitHub Journey
+         : 📚 First repositories & learning fundamentals
+         : 🌟 Discovered passion for coding
+    2021 : 🌐 Built first web applications
+         : 🎮 Explored game modding & engines
+         : 💻 Mastered 5+ languages
+    2022 : 🚀 Advanced full-stack projects
+         : 🤝 Open source contributions
+         : 📊 10+ languages & frameworks
+    2023 : 💼 Full-stack expertise achieved
+         : 🏢 Enterprise & ERP systems
+         : 🔧 15+ languages mastered
+    2024-2025 : 🎓 Senior developer level
+              : 🤖 AI/ML integration & automation
+              : 📱 Mobile & cloud development
+              : 🏆 25+ languages | 30+ projects
 ```
+
+</div>
+
+---
+
+## 💡 Technical Expertise
+
+<div align="center">
+
+### 🎯 Specialized Skills
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🏢 Enterprise Development
+- ERP Systems Design
+- Microservices Architecture
+- RESTful & GraphQL APIs
+- Database Optimization
+- System Integration
+
+</td>
+<td width="33%" align="center">
+
+#### 🎨 Frontend Excellence
+- Modern React/Next.js
+- Vue.js & Angular
+- Flutter Mobile Apps
+- Responsive Design
+- UI/UX Best Practices
+
+</td>
+<td width="33%" align="center">
+
+#### ⚙️ Backend Mastery
+- Node.js & Express
+- Python Django/Flask
+- .NET Core
+- Spring Boot
+- Cloud Services (AWS/Azure)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+#### 🎮 Game Development
+- Unity & Unreal Engine
+- Custom Modding Tools
+- Game Mechanics Design
+- Performance Optimization
+- Lua Scripting
+
+</td>
+<td width="33%" align="center">
+
+#### 🔄 DevOps & CI/CD
+- Docker & Kubernetes
+- Jenkins & GitLab CI
+- Infrastructure as Code
+- Monitoring & Logging
+- Automated Testing
+
+</td>
+<td width="33%" align="center">
+
+#### 📊 Data & AI
+- Machine Learning Models
+- Data Analysis & Visualization
+- TensorFlow & PyTorch
+- Database Design
+- Big Data Processing
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -245,20 +377,24 @@ timeline
 
 <table>
 <tr>
-<td align="center">🎧</td>
-<td><strong>Lo-fi Hip Hop</strong> - For deep focus sessions</td>
+<td align="center" width="25%">🎧</td>
+<td width="75%"><strong>Lo-fi Hip Hop</strong> - For deep focus and flow state sessions</td>
 </tr>
 <tr>
 <td align="center">🎸</td>
-<td><strong>Synthwave</strong> - When building cyberpunk projects</td>
+<td><strong>Synthwave</strong> - When building cyberpunk and futuristic projects</td>
 </tr>
 <tr>
 <td align="center">🎹</td>
-<td><strong>Classical</strong> - For algorithm design</td>
+<td><strong>Classical</strong> - For complex algorithm design and problem-solving</td>
 </tr>
 <tr>
 <td align="center">🎵</td>
-<td><strong>Electronic</strong> - During late-night coding</td>
+<td><strong>Electronic/EDM</strong> - During late-night coding marathons</td>
+</tr>
+<tr>
+<td align="center">🎼</td>
+<td><strong>Ambient/Chill</strong> - For debugging and code reviews</td>
 </tr>
 </table>
 
@@ -266,7 +402,7 @@ timeline
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
@@ -282,6 +418,18 @@ timeline
 <a href="https://github.com/geoarda">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+<br>
+
+### 💼 Open for Opportunities
+
+🚀 Freelance Projects | 🤝 Collaborations | 💡 Consulting | 🎓 Mentorship
 
 </div>
 
@@ -291,7 +439,7 @@ timeline
 
 ### 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -299,11 +447,11 @@ timeline
 
 <div align="center">
 
-### 🎯 Quick Stats
+### 🎯 Profile Insights
 
 ![](https://komarev.com/ghpvc/?username=geoarda&color=00FFFF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/geoarda?style=for-the-badge&color=FF00FF&labelColor=black)
-![GitHub User's stars](https://img.shields.io/github/stars/geoarda?style=for-the-badge&color=FFFF00&labelColor=black)
+![GitHub followers](https://img.shields.io/github/followers/geoarda?style=for-the-badge&color=FF00FF&labelColor=1a1a2e)
+![GitHub User's stars](https://img.shields.io/github/stars/geoarda?style=for-the-badge&color=FFFF00&labelColor=1a1a2e)
 
 </div>
 
@@ -315,8 +463,10 @@ timeline
 
 <br>
 
-**✨ "5 years of turning code into creativity, one project at a time." ✨**
+**✨ "5 years of turning code into creativity, one commit at a time." ✨**
 
-**🚀 From 2020 to now - Building, Learning, Innovating**
+**🚀 From 2020 to 2025 - Building, Learning, Innovating, Inspiring**
+
+<sub>Made with 💖 and ☕ by Arda</sub>
 
 </div>
