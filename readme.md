@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=17+Ya%C5%9F%C4%B1nda+Senior+Developer;4%2B+Y%C4%B1l+Kodlama+Deneyimi;Game+Modding+%26+Web+Development;17%2B+Programming+Languages;Code+is+Poetry%2C+Logic+is+Art;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=17+Ya%C5%9F%C4%B1nda+Senior+Developer;5%2B+Y%C4%B1l+Kodlama+Deneyimi;Game+Modding+%26+Web+Development;20%2B+Programming+Languages;Code+is+Poetry%2C+Logic+is+Art;Turning+Ideas+Into+Reality;GitHub+Member+Since+2020" alt="Typing SVG" />
 
 </div>
 
@@ -18,11 +18,14 @@
 const arda = {
     age: 17,
     location: "İzmir, Turkey 🇹🇷",
-    experience: "4+ years of coding journey",
+    experience: "5+ years of coding journey",
+    github_since: "2020 🎂",
     passion: "Turning code into creativity",
     current_focus: ["Game Modding", "Web Development", "Open Source", "AI/ML"],
     fun_fact: "I debug code faster than I debug my life 🐛",
-    motto: "Code is poetry, logic is art ✨"
+    motto: "Code is poetry, logic is art ✨",
+    languages_mastered: "20+",
+    projects_completed: "25+"
 };
 ```
 
@@ -34,7 +37,8 @@ const arda = {
 🌱 Learning **blockchain development & cloud architecture**  
 👯 Looking to collaborate on **cutting-edge open source projects**  
 💬 Ask me about **any programming language or tech stack**  
-⚡ Fun fact: **I've been coding since I was 13 - it's my superpower** 🦸‍♂️
+⚡ Fun fact: **I've been coding since I was 12 - it's my superpower** 🦸‍♂️  
+🎯 **5+ years on GitHub** building, learning, and innovating
 
 </div>
 
@@ -180,27 +184,56 @@ const arda = {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Languages-17+-00FFFF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Languages-20+-00FFFF?style=for-the-badge&labelColor=black" />
 <br />
 <strong>Programming Languages</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Projects-15+-FF00FF?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Projects-25+-FF00FF?style=for-the-badge&labelColor=black" />
 <br />
 <strong>Completed Projects</strong>  
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-FFFF00?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-FFFF00?style=for-the-badge&labelColor=black" />
 <br />
 <strong>Coding Experience</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Creativity-∞-00FF88?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/GitHub-Since%202020-00FF88?style=for-the-badge&labelColor=black" />
 <br />
-<strong>Innovation Level</strong>
+<strong>GitHub Journey</strong>
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 📈 My Coding Journey
+
+<div align="center">
+
+```mermaid
+timeline
+    title 5 Years of Innovation
+    2020 : Started GitHub Journey
+         : First repositories
+         : Learning fundamentals
+    2021 : Built first web apps
+         : Explored game modding
+         : 5+ languages mastered
+    2022 : Advanced projects
+         : Open source contributions
+         : 10+ languages
+    2023 : Full-stack expertise
+         : Complex applications
+         : 15+ languages
+    2024-2025 : Senior developer skills
+              : AI/ML integration
+              : 20+ languages
+              : 25+ projects completed
+```
 
 </div>
 
@@ -266,12 +299,24 @@ const arda = {
 
 <div align="center">
 
+### 🎯 Quick Stats
+
+![](https://komarev.com/ghpvc/?username=geoarda&color=00FFFF&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/geoarda?style=for-the-badge&color=FF00FF&labelColor=black)
+![GitHub User's stars](https://img.shields.io/github/stars/geoarda?style=for-the-badge&color=FFFF00&labelColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
 
 <br>
 
-**✨ "Turn code into creativity, one project at a time." ✨**
+**✨ "5 years of turning code into creativity, one project at a time." ✨**
 
-<img src="https://komarev.com/ghpvc/?username=geoarda&color=00FFFF&style=for-the-badge&label=Profile+Views" />
+**🚀 From 2020 to now - Building, Learning, Innovating**
 
 </div>
