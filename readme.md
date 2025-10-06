@@ -465,7 +465,7 @@ timeline
 
 **✨ "5 years of turning code into creativity, one commit at a time." ✨**
 
-**🚀 From 2020 to 2025 - Building, Learning, Innovating, Inspiring**
+**🚀 From 2014 to 2025 - Building, Learning, Innovating, Inspiring**
 
 <sub>Made with 💖 and ☕ by Arda</sub>
 
