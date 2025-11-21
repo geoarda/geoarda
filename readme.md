@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=17+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=18+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ```typescript
 const arda = {
-    age: 17,
+    age: 18,
     location: "İzmir, Turkey 🇹🇷",
     experience: "5+ yıl kodlama deneyimi",
     github_since: "2020",
