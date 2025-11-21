@@ -29,7 +29,6 @@ const arda = {
 🌱 **ASP.NET Core**, **mikroservisler** ve **cloud teknolojileri** öğreniyorum  
 👯 **Açık kaynak projelerde** işbirliğine açığım  
 💬 **Full stack development** ve **ASP.NET** hakkında benimle konuşabilirsiniz  
-⚡ **12 yaşından beri** kod yazıyorum
 
 </div>
 
@@ -40,7 +39,7 @@ const arda = {
 <div align="center">
 
 ### 💻 Ana Diller & Framework'ler
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php,perl,swift,cpp,c" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass,jquery" />
@@ -49,7 +48,7 @@ const arda = {
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase" />
 
 ### 🔧 Araçlar & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,linux" />
 
 ### 🎮 Oyun Geliştirme & Modding
 <img src="https://skillicons.dev/icons?i=unity,unreal,lua,blender" />
@@ -123,11 +122,9 @@ const arda = {
 
 ### 🖥️ PC Parts Store
 **E-ticaret Platformu**
-- 🛒 Tam kapsamlı alışveriş sepeti
-- 💳 Güvenli ödeme entegrasyonu
+- ÖYLESİNE YAZILDI.
 - 🔍 Gelişmiş arama & filtreleme
-- 📊 Admin paneli
-- **Tech:** ASP.NET, C#, SQL Server
+- **Tech:** HTML CSS BOOTSTRAP
 
 <div align="center">
 
@@ -292,6 +289,6 @@ const arda = {
 
 **✨ "Her commit, yeni bir öğrenme fırsatı" ✨**
 
-<sub>💖 ile yapıldı - Arda</sub>
+<sub>Arda - FullStack</sub>
 
 </div>
