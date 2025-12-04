@@ -1,430 +1,182 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Arda&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20&descAlign=50" />
+<!-- Elegant Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:43e97b&height=200&section=header&text=Arda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<!-- Typing Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;5%2B+Years+of+Coding+Experience+%E2%9C%A8;ASP.NET+%26+Enterprise+Solutions+%F0%9F%9A%80;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%8C%9F">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;5%2B+Years+of+Coding+Experience+%E2%9C%A8;ASP.NET+%26+Enterprise+Solutions+%F0%9F%9A%80;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%8C%9F">
-</picture>
-
-<!-- Badges -->
+<!-- Minimal Typing Animation -->
 <p>
-  <a href="https://www.linkedin.com/in/arda-a-020bb5380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=667eea" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764ba2" alt="Email"/>
-  </a>
-  <a href="https://github.com/geoarda">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" alt="Portfolio"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;5%2B+Years+Experience;ASP.NET+Specialist;Building+Amazing+Things" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=geoarda&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views" />
+<!-- Clean Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/arda-a-020bb5380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=geoarda&color=4facfe&style=flat-square" />
+</p>
 
 </div>
 
 <br>
 
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- About Me Section -->
-<div align="center">
-
-## 🌟 About Me
-
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left">
-
-```javascript
-const arda = {
-    location: "İzmir, Turkey 🇹🇷",
+<!-- About Section -->
+```typescript
+const developer = {
+    name: "Arda",
     age: 18,
+    location: "İzmir, Turkey 🇹🇷",
     role: "Full Stack Developer",
     experience: "5+ years",
     
-    workingOn: {
-        current: "Enterprise ERP Systems",
-        learning: ["Microservices", "Cloud Architecture", "DevOps"],
-        interests: ["System Design", "Performance Optimization", "Clean Code"]
-    },
+    specialties: ["ASP.NET", "Web Development", "ERP Systems"],
+    currentFocus: ["Microservices", "Cloud", "Clean Architecture"],
     
-    technologies: {
-        backend: ["ASP.NET Core", "Node.js", "Entity Framework"],
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-        tools: ["Docker", "Git", "Visual Studio", "Postman"]
-    },
-    
-    funFact: "I turn coffee into code ☕ → 💻",
-    motto: "Clean code, better world 🌍"
+    techStack: {
+        backend: ["C#", "ASP.NET Core", "Node.js"],
+        frontend: ["React", "Next.js", "Tailwind"],
+        database: ["SQL Server", "PostgreSQL", "MongoDB"],
+        tools: ["Docker", "Git", "VS Code"]
+    }
 };
+```
+
+<br>
+
+<!-- Tech Stack - Compact -->
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & DB**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white)
+
+</div>
+
+<br>
+
+<!-- GitHub Stats - Clean Layout -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=transparent&hide_border=true&title_color=4facfe&icon_color=43e97b&text_color=9f9f9f&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=transparent&hide_border=true&title_color=4facfe&text_color=9f9f9f&bg_color=00000000&langs_count=6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=transparent&hide_border=true&stroke=4facfe&ring=43e97b&fire=4facfe&currStreakLabel=9f9f9f&background=00000000" />
+
+</div>
+
+<br>
+
+<!-- Featured Projects - Minimal Cards -->
+<div align="center">
+
+### 🚀 Featured Projects
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>🖥️ PC Parts Store</h4>
+      <p><sub>E-commerce platform for computer components</sub></p>
+      <p>
+        <code>ASP.NET</code> <code>Bootstrap</code> <code>SQL</code>
+      </p>
+      <a href="http://bilgisayarparcasisatan.somee.com/">
+        <img src="https://img.shields.io/badge/Live-Demo-4facfe?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%">
+      <h4>✅ TaskMaster</h4>
+      <p><sub>Modern todo list with dark mode</sub></p>
+      <p>
+        <code>JavaScript</code> <code>CSS</code> <code>LocalStorage</code>
+      </p>
+      <a href="https://geoarda.github.io/TaskMaster/">
+        <img src="https://img.shields.io/badge/Live-Demo-4facfe?style=flat-square" />
+      </a>
+      <a href="https://github.com/geoarda/TaskMaster">
+        <img src="https://img.shields.io/badge/Code-GitHub-43e97b?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🧮 CodeCalcPro</h4>
+      <p><sub>Advanced calculator with themes</sub></p>
+      <p>
+        <code>JavaScript</code> <code>Math.js</code> <code>CSS</code>
+      </p>
+      <a href="https://geoarda.github.io/CodeCalcPro/">
+        <img src="https://img.shields.io/badge/Live-Demo-4facfe?style=flat-square" />
+      </a>
+      <a href="https://github.com/geoarda/CodeCalcPro">
+        <img src="https://img.shields.io/badge/Code-GitHub-43e97b?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%">
+      <h4>🎮 Game Mods</h4>
+      <p><sub>Custom game modifications</sub></p>
+      <p>
+        <code>Unity</code> <code>C#</code> <code>Lua</code>
+      </p>
+      <a href="https://github.com/geoarda">
+        <img src="https://img.shields.io/badge/Portfolio-View-4facfe?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Current Focus -->
+<div align="center">
+
+### 🎯 Currently Learning
+
+```yaml
+Focus Areas:
+  - Microservices Architecture
+  - Cloud Technologies (Azure, AWS)
+  - Advanced ASP.NET Core Patterns
+  - DevOps & CI/CD Pipelines
 ```
 
 </div>
 
-<br clear="right"/>
-
 <br>
 
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Tech Stack Section -->
+<!-- Clean Connect Section -->
 <div align="center">
 
-## 🛠️ Technology Stack
-
-### Programming Languages
+### 💬 Let's Connect
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,java,cpp,php,c,perl,swift&perline=10&theme=dark" />
+  <strong>Open to:</strong> Freelance • Collaborations • Consulting
 </p>
 
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,jquery,figma&perline=9&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase,sqlite&perline=9&theme=dark" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman,linux,windows&perline=8&theme=dark" />
-</p>
-
-### Game Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,lua&perline=4&theme=dark" />
-</p>
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-
-<!-- First Row -->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=f093fb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
-</p>
-
-<!-- Second Row -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
-</p>
-
-<!-- Activity Graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geoarda&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&area_color=764ba2"/>
-</p>
-
-</div>
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Featured Projects -->
-<div align="center">
-
-## 🎯 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ PC Parts Store</h3>
-      <div align="center">
-        <a href="http://bilgisayarparcasisatan.somee.com/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=geoarda&repo=pc-parts-store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="PC Parts Store" />
-        </a>
-        <br><br>
-        <p>
-          <strong>E-Commerce Platform</strong><br>
-          Modern bilgisayar parçaları satış platformu
-        </p>
-        <p>
-          <code>HTML</code> <code>CSS</code> <code>Bootstrap</code> 
-          <code>JavaScript</code> <code>ASP.NET</code>
-        </p>
-        <a href="http://bilgisayarparcasisatan.somee.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✅ TaskMaster</h3>
-      <div align="center">
-        <a href="https://geoarda.github.io/TaskMaster/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=geoarda&repo=TaskMaster&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="TaskMaster" />
-        </a>
-        <br><br>
-        <p>
-          <strong>Todo List Application</strong><br>
-          Modern ve kullanışlı görev yönetimi
-        </p>
-        <p>
-          <code>HTML</code> <code>CSS</code> <code>JavaScript</code> 
-          <code>LocalStorage</code>
-        </p>
-        <a href="https://geoarda.github.io/TaskMaster/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-        <a href="https://github.com/geoarda/TaskMaster" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧮 CodeCalcPro</h3>
-      <div align="center">
-        <a href="https://geoarda.github.io/CodeCalcPro/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=geoarda&repo=CodeCalcPro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="CodeCalcPro" />
-        </a>
-        <br><br>
-        <p>
-          <strong>Advanced Calculator</strong><br>
-          Gelişmiş hesaplama özellikleri
-        </p>
-        <p>
-          <code>HTML</code> <code>CSS</code> <code>JavaScript</code> 
-          <code>Math.js</code>
-        </p>
-        <a href="https://geoarda.github.io/CodeCalcPro/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-        <a href="https://github.com/geoarda/CodeCalcPro" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Game Mods</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=geoarda&repo=game-mods&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="Game Mods" />
-        <br><br>
-        <p>
-          <strong>Game Development</strong><br>
-          Özel oyun modları ve araçları
-        </p>
-        <p>
-          <code>Unity</code> <code>C#</code> <code>Lua</code> 
-          <code>Blender</code>
-        </p>
-        <a href="https://github.com/geoarda" target="_blank">
-          <img src="https://img.shields.io/badge/View-Portfolio-667eea?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Skills Visualization -->
-<div align="center">
-
-## 💼 Core Competencies
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="70" height="70" />
-      <br><br>
-      <strong>ASP.NET Development</strong>
-      <br><br>
-      <sub>Web API | MVC | Entity Framework<br>Microservices | RESTful Services</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" />
-      <br><br>
-      <strong>Frontend Development</strong>
-      <br><br>
-      <sub>React | Next.js | Tailwind CSS<br>Responsive Design | Modern UI/UX</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70" />
-      <br><br>
-      <strong>Database Management</strong>
-      <br><br>
-      <sub>SQL Server | PostgreSQL | MongoDB<br>Query Optimization | Database Design</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="70" height="70" />
-      <br><br>
-      <strong>Game Development</strong>
-      <br><br>
-      <sub>Unity | Custom Scripts<br>Game Mechanics | Performance</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Learning Journey -->
-<div align="center">
-
-## 🚀 Current Learning Path
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" />
-      <br><br>
-      <strong>Cloud Technologies</strong>
-      <br><sub>Azure • AWS • Cloud Architecture</sub>
-      <br><br>
-      <img src="https://progress-bar.dev/65/?scale=100&title=Progress&width=200&color=667eea&suffix=%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
-      <br><br>
-      <strong>Microservices</strong>
-      <br><sub>Docker • Kubernetes • CI/CD</sub>
-      <br><br>
-      <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=764ba2&suffix=%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" />
-      <br><br>
-      <strong>AI Integration</strong>
-      <br><sub>ML.NET • AI Services • LLM</sub>
-      <br><br>
-      <img src="https://progress-bar.dev/45/?scale=100&title=Progress&width=200&color=f093fb&suffix=%" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Achievements & Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=geoarda&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Quote Section -->
-<div align="center">
-
-## 💭 Developer's Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&border=true&borderColor=667eea" />
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Connect Section -->
-<div align="center">
-
-## 🤝 Let's Connect
-
-<p>
-I'm always interested in hearing about new projects and opportunities!
-<br>
-Feel free to reach out for collaborations, freelance work, or just a friendly chat about tech.
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/briefcase.png" width="60"/>
-      <br><strong>Freelance</strong>
-      <br><sub>Available for hire</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/handshake.png" width="60"/>
-      <br><strong>Collaboration</strong>
-      <br><sub>Open to partnerships</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/consultation.png" width="60"/>
-      <br><strong>Consulting</strong>
-      <br><sub>Technical advisory</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/open-source.png" width="60"/>
-      <br><strong>Open Source</strong>
-      <br><sub>Contributions</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Social Links -->
 <p>
   <a href="https://www.linkedin.com/in/arda-a-020bb5380/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -435,58 +187,7 @@ Feel free to reach out for collaborations, freelance work, or just a friendly ch
   <a href="https://github.com/geoarda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p>
-
-<br>
-
-<!-- Profile Stats -->
-<p>
-  <img src="https://img.shields.io/github/followers/geoarda?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/geoarda?label=Stars&style=social" />
-</p>
-
-</div>
-
-<br>
-
-<!-- Support Section -->
-<div align="center">
-
-## ☕ Support My Work
-
-<p>
-If you find my projects helpful or interesting, consider supporting me!
-<br>
-Your support helps me dedicate more time to open source development.
-</p>
-
-<a href="https://buymeacoffee.com/geoarda">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://github.com/sponsors/geoarda">
-  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geoarda/geoarda/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geoarda/geoarda/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geoarda/geoarda/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -495,16 +196,8 @@ Your support helps me dedicate more time to open source development.
 <!-- Footer -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:43e97b&height=100&section=footer" />
 
----
-
-<p>
-  <strong>⭐ From <a href="https://github.com/geoarda">geoarda</a></strong>
-  <br>
-  <sub>Made with 💜 and lots of ☕</sub>
-  <br><br>
-  <sub>✨ <em>"Code is poetry written in logic"</em> ✨</sub>
-</p>
+<sub>⭐ From <a href="https://github.com/geoarda">geoarda</a> • Made with 💙</sub>
 
 </div>
