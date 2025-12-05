@@ -1,6 +1,6 @@
 <!-- PROFIL ÜST BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=37d6ff&text=Arda%20Agar&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20ASP.NET%20%7C%20ERP%20Geliştirici&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=37d6ff&text=Arda%20A&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20ASP.NET%20%7C%20ERP%20Geliştirici&descAlignY=55" />
 </div>
 
 <br>
