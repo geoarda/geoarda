@@ -1,3 +1,108 @@
+<!-- PROFIL ÜST BANNER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=37d6ff&text=Arda%20Agar&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20ASP.NET%20%7C%20ERP%20Geliştirici&descAlignY=55" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=18+Yaşında+Full+Stack+Developer;ASP.NET%2C+Web+Ve+Enterprise+Development;ERP+Sistemleri+Geliştiricisi;Modern+Web+Teknolojileri+Tutkunu" />
+
+</div>
+
+---
+
+# 👋 **Merhaba, ben Arda!**
+
+```typescript
+const arda = {
+  age: 18,
+  location: "İzmir, Turkey 🇹🇷",
+  experience: "5+ yıl kodlama deneyimi",
+  github_since: 2020,
+  specialties: ["ASP.NET", "Web Development", "ERP Systems"],
+  passion: "Gerçek problemlere pratik çözümler üretmek",
+  motto: "Kod yazmak, problem çözmektir. 🚀"
+};
+🔥 Şu Anda Neler Yapıyorum?
+🔭 Kurumsal ERP çözümleri geliştiriyorum
+
+💼 Backend & Enterprise uygulamalarına odaklanıyorum
+
+🌱 ASP.NET Core, mikroservisler, clean architecture çalışıyorum
+
+🤝 Açık kaynak projelere katkı veriyorum
+
+💬 Full-stack & ASP.NET konusunda tartışmayı çok severim
+
+🛠️ Teknoloji Yığınım
+<div align="center">
+💻 Diller & Framework'ler
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php,swift,c" />
+🎨 Frontend Teknolojileri
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,jquery" />
+⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgres,sqlite,mongodb,redis,firebase" />
+🧰 DevOps & Araçlar
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,figma,postman" />
+🎮 Game Development
+<img src="https://skillicons.dev/icons?i=unity,unreal,lua,blender" /> </div>
+🚀 Uzmanlık Alanlarım
+<div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> <br /><strong>ASP.NET Development</strong> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ERP-FF6B35?style=for-the-badge&logo=sap&logoColor=white" /> <br /><strong>Kurumsal ERP Sistemleri</strong> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=for-the-badge&logo=stackshare&logoColor=white" /> <br /><strong>Full Stack Web Development</strong> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Game_Dev-F38181?style=for-the-badge&logo=unity&logoColor=white" /> <br /><strong>Unity & Modding</strong> </td> </tr> </table> </div>
+📊 GitHub İstatistikleri
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" /> </div>
+🌟 Öne Çıkan Projeler
+<div align="center">
+🖥️ PC Parts Store
+E-ticaret web uygulaması
+Tech: HTML, CSS, Bootstrap
+🔗 Live Demo
+
+✅ TaskMaster
+Modern Todo App
+Tech: HTML, CSS, JavaScript
+🌐 Live Demo
+📦 GitHub
+
+🧮 CodeCalcPro
+Gelişmiş Hesap Makinesi
+Tech: HTML, CSS, JS
+🌐 Live Demo
+📦 GitHub
+
+</div>
+🌐 Sosyal Medya & İletişim
+<div align="center"> <a href="https://www.linkedin.com/in/arda-a-020bb5380/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/geoarda"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center">
+🔥 Profil İstatistikleri
+
+
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=37d6ff&height=120&section=footer&text=Teşekkürler!&fontSize=25&fontColor=ffffff&animation=twinkling" /> <br>
+✨ “Her commit yeni bir hikayenin başlangıcıdır.” ✨
+
+<sub>Arda Agar — Full Stack Developer</sub>
+
+</div> ```
+✨ İstersen Daha Da Geliştirebilirim
+✔ Daha minimalist versiyon
+✔ Daha profesyonel kurumsal stil
+✔ Daha renkli, daha eğlenceli stil
+✔ Fotoğraf veya QR kod ekleme
+✔ Sağ/sol hizalanmış bilgi kartları
+✔ 3D banner ekleme
+
+Yeter ki söyle — GitHub profilini premium seviyeye taşıyabilirim! 🚀
+
+
+
+
+
+
+
+Şunu dedin:
 # Hi there, I'm Arda! 👋 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=18+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" /> </div> ## 🚀 Hakkımda
 typescript
 const arda = {
@@ -10,4 +115,177 @@ const arda = {
     current_focus: ["Enterprise Solutions", "Backend Development", "Web Technologies"],
     motto: "Kod yazmak, problem çözmektir ✨"
 };
-<div align="center"> ### 💫 Şu Anda 🔭 **ERP sistemleri** ve **kurumsal uygulamalar** üzerinde çalışıyorum 🌱 **ASP.NET Core**, **mikroservisler** ve **cloud teknolojileri** öğreniyorum 👯 **Açık kaynak projelerde** işbirliğine açığım 💬 **Full stack development** ve **ASP.NET** hakkında benimle konuşabilirsiniz </div> --- ## 🛠️ Teknoloji Yığınım <div align="center"> ### 💻 Ana Diller & Framework'ler <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php,perl,swift,cpp,c" /> ### 🎨 Frontend <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass,jquery" /> ### ⚙️ Backend & Veritabanı <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase" /> ### 🔧 Araçlar & DevOps <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,linux" /> ### 🎮 Oyun Geliştirme & Modding <img src="https://skillicons.dev/icons?i=unity,unreal,lua,blender" /> </div> --- ## 💼 Uzmanlık Alanlarım <div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> <br /> <strong>ASP.NET Development</strong> <br /> <sub>Web API & MVC</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ERP-FF6B35?style=for-the-badge&logo=sap&logoColor=white" /> <br /> <strong>ERP Sistemleri</strong> <br /> <sub>Kurumsal çözümler</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white" /> <br /> <strong>Full Stack Web</strong> <br /> <sub>Frontend + Backend</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Game_Dev-F38181?style=for-the-badge&logo=unity&logoColor=white" /> <br /> <strong>Oyun Modding</strong> <br /> <sub>Unity & Custom mods</sub> </td> </tr> </table> </div> --- ## 📊 GitHub İstatistiklerim <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=6" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" /> </div> --- ## 🎯 Öne Çıkan Projelerim <div align="center"> <table> <tr> <td width="50%"> ### 🖥️ PC Parts Store **E-ticaret Platformu** - ÖYLESİNE YAZILDI. - 🔍 Gelişmiş arama & filtreleme - **Tech:** HTML CSS BOOTSTRAP <div align="center"> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](http://bilgisayarparcasisatan.somee.com/) </div> </td> <td width="50%"> ### ✅ TaskMaster **Modern Todo List Uygulaması** - 🌙 Dark mode desteği - 📱 Responsive tasarım - 💾 Local storage entegrasyonu - ⚡ Hızlı ve kullanışlı - **Tech:** HTML, CSS, JavaScript <div align="center"> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://geoarda.github.io/TaskMaster/) [![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda/TaskMaster) </div> </td> </tr> <tr> <td width="50%"> ### 🧮 CodeCalcPro **Gelişmiş Hesap Makinesi** - 🎨 Çoklu renk temaları - 📐 İleri düzey matematiksel işlemler - 🔧 Temiz, sezgisel arayüz - 📱 Mobile-first tasarım - **Tech:** HTML, CSS, JavaScript <div align="center"> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://geoarda.github.io/CodeCalcPro/) [![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda/CodeCalcPro) </div> </td> <td width="50%"> ### 🎮 Oyun Modları & Projeler **Oyun Geliştirme Portföyü** - 🎯 Özel oyun mekanikleri - 🎨 Geliştirilmiş görsel efektler - ⚙️ Performans optimizasyonları - 🔧 Modding framework'leri - **Tech:** Unity, C#, Lua </td> </tr> </table> </div> --- ## 💡 Teknik Yeteneklerim <div align="center"> <table> <tr> <td width="50%" align="center"> #### 🏢 Backend & Enterprise - ASP.NET Core Web API - ASP.NET MVC - Entity Framework - RESTful API Design - SQL Server & PostgreSQL - ERP Sistem Tasarımı </td> <td width="50%" align="center"> #### 🎨 Frontend & UI - React.js & Next.js - Modern CSS (Tailwind, Bootstrap) - Responsive Web Design - JavaScript/TypeScript - UI/UX Best Practices </td> </tr> <tr> <td width="50%" align="center"> #### 🎮 Oyun Geliştirme - Unity Engine - C# Game Programming - Lua Scripting - Oyun Modding - Custom Tool Development </td> <td width="50%" align="center"> #### 🔧 DevOps & Tools - Git & GitHub - Docker Basics - Visual Studio - VS Code - Postman - Database Management </td> </tr> </table> </div> --- ## 🌐 Bağlantılar <div align="center"> <a href="https://www.linkedin.com/in/arda-a-020bb5380/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/geoarda"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <div align="center"> <br> ### 💼 Fırsatlara Açığım 🚀 Freelance Projeler | 🤝 İşbirlikleri | 💡 Danışmanlık </div> --- <div align="center"> ### 🎯 Profil Görüntülenmeleri ![](https://komarev.com/ghpvc/?username=geoarda&color=00FFFF&style=for-the-badge&label=Profil+Görüntüleme) ![GitHub followers](https://img.shields.io/github/followers/geoarda?style=for-the-badge&color=FF00FF&labelColor=1a1a2e) </div> --- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ziyaret+Ettiğiniz+İçin+Teşekkürler!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" /> <br> **✨ "Her commit, yeni bir öğrenme fırsatı" ✨** <sub>Arda - FullStack</sub> </div> şu kısmı biraz daha güzelleştirelim github için :)
+<div align="center"> ### 💫 Şu Anda 🔭 **ERP sistemleri** ve **kurumsal uygulamalar** üzerinde çalışıyorum 🌱 **ASP.NET Core**, **mikroservisler** ve **cloud teknolojileri** öğreniyorum 👯 **Açık kaynak projelerde** işbirliğine açığım 💬 **Full stack development** ve **ASP.NET** hakkında benimle konuşabilirsiniz </div> --- ## 🛠️ Teknoloji Yığınım <div align="center"> ### 💻 Ana Diller & Framework'ler <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php,perl,swift,cpp,c" /> ### 🎨 Frontend <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass,jquery" /> ### ⚙️ Backend & Veritabanı <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase" /> ### 🔧 Araçlar & DevOps <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,linux" /> ### 🎮 Oyun Geliştirme & Modding <img src="https://skillicons.dev/icons?i=unity,unreal,lua,blender" /> </div> --- ## 💼 Uzmanlık Alanlarım <div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> <br /> <strong>ASP.NET Development</strong> <br /> <sub>Web API & MVC</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ERP-FF6B35?style=for-the-badge&logo=sap&logoColor=white" /> <br /> <strong>ERP Sistemleri</strong> <br /> <sub>Kurumsal çözümler</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white" /> <br /> <strong>Full Stack Web</strong> <br /> <sub>Frontend + Backend</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Game_Dev-F38181?style=for-the-badge&logo=unity&logoColor=white" /> <br /> <strong>Oyun Modding</strong> <br /> <sub>Unity & Custom mods</sub> </td> </tr> </table> </div> --- ## 📊 GitHub İstatistiklerim <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=6" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" /> </div> --- ## 🎯 Öne Çıkan Projelerim <div align="center"> <table> <tr> <td width="50%"> ### 🖥️ PC Parts Store **E-ticaret Platformu** - ÖYLESİNE YAZILDI. - 🔍 Gelişmiş arama & filtreleme - **Tech:** HTML CSS BOOTSTRAP <div align="center"> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](http://bilgisayarparcasisatan.somee.com/) </div> </td> <td width="50%"> ### ✅ TaskMaster **Modern Todo List Uygulaması** - 🌙 Dark mode desteği - 📱 Responsive tasarım - 💾 Local storage entegrasyonu - ⚡ Hızlı ve kullanışlı - **Tech:** HTML, CSS, JavaScript <div align="center"> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://geoarda.github.io/TaskMaster/) [![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda/TaskMaster) </div> </td> </tr> <tr> <td width="50%"> ### 🧮 CodeCalcPro **Gelişmiş Hesap Makinesi** - 🎨 Çoklu renk temaları - 📐 İleri düzey matematiksel işlemler - 🔧 Temiz, sezgisel arayüz - 📱 Mobile-first tasarım - **Tech:** HTML, CSS, JavaScript <div align="center"> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://geoarda.github.io/CodeCalcPro/) [![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda/CodeCalcPro) </div> </td> <td width="50%"> ### 🎮 Oyun Modları & Projeler **Oyun Geliştirme Portföyü** - 🎯 Özel oyun mekanikleri - 🎨 Geliştirilmiş görsel efektler - ⚙️ Performans optimizasyonları - 🔧 Modding framework'leri - **Tech:** Unity, C#, Lua </td> </tr> </table> </div> --- ## 💡 Teknik Yeteneklerim <div align="center"> <table> <tr> <td width="50%" align="center"> #### 🏢 Backend & Enterprise - ASP.NET Core Web API - ASP.NET MVC - Entity Framework - RESTful API Design - SQL Server & PostgreSQL - ERP Sistem Tasarımı </td> <td width="50%" align="center"> #### 🎨 Frontend & UI - React.js & Next.js - Modern CSS (Tailwind, Bootstrap) - Responsive Web Design - JavaScript/TypeScript - UI/UX Best Practices </td> </tr> <tr> <td width="50%" align="center"> #### 🎮 Oyun Geliştirme - Unity Engine - C# Game Programming - Lua Scripting - Oyun Modding - Custom Tool Development </td> <td width="50%" align="center"> #### 🔧 DevOps & Tools - Git & GitHub - Docker Basics - Visual Studio - VS Code - Postman - Database Management </td> </tr> </table> </div> --- ## 🌐 Bağlantılar <div align="center"> <a href="https://www.linkedin.com/in/arda-a-020bb5380/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/geoarda"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <div align="center"> <br> ### 💼 Fırsatlara Açığım 🚀 Freelance Projeler | 🤝 İşbirlikleri | 💡 Danışmanlık </div> --- <div align="center"> ### 🎯 Profil Görüntülenmeleri ![](https://komarev.com/ghpvc/?username=geoarda&color=00FFFF&style=for-the-badge&label=Profil+Görüntüleme) ![GitHub followers](https://img.shields.io/github/followers/geoarda?style=for-the-badge&color=FF00FF&labelColor=1a1a2e) </div> --- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ziyaret+Ettiğiniz+İçin+Teşekkürler!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" /> <br> **✨ "Her commit, yeni bir öğrenme fırsatı" ✨** <sub>Arda - FullStack</sub> </div> şu kısmı biraz daha güzelleştirelim github için :) şunu kopyalanabilecek hale getirsene read me için
+
+
+ChatGPT:
+Tabii! Aşağıdaki tamamen düzenlenmiş, tasarımı iyileştirilmiş, kopyalanabilir, tek parça README’ni sana veriyorum.
+Kod bloklarıyla uğraşmana gerek yok — direkt GitHub README'ne yapıştırabilirsin.
+
+✅ Yenilenmiş & Şık GitHub README — Kopyalanabilir
+Aşağıdaki metnin tamamını CTRL + A → CTRL + C yapıp GitHub profil README’ne ekleyebilirsin:
+
+md
+Kodu kopyala
+# Hi there, I'm Arda! 👋
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=18+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 Hakkımda
+
+```typescript
+const arda = {
+    age: 18,
+    location: "İzmir, Turkey 🇹🇷",
+    experience: "5+ yıl kodlama deneyimi",
+    github_since: "2020",
+    passion: "Pratik çözümler üretmek",
+    specialties: ["ASP.NET Development", "Full Stack Web", "ERP Systems"],
+    current_focus: ["Enterprise Solutions", "Backend Development", "Web Technologies"],
+    motto: "Kod yazmak, problem çözmektir ✨"
+};
+<div align="center">
+💫 Şu Anda
+🔭 ERP sistemleri ve kurumsal uygulamalar geliştiriyorum
+🌱 ASP.NET Core, mikroservis mimarisi ve bulut teknolojileri öğreniyorum
+👯 Açık kaynak projelerde işbirliğine açığım
+💬 Full Stack Development & ASP.NET hakkında konuşabiliriz
+
+</div>
+🛠️ Teknoloji Yığınım
+<div align="center">
+💻 Ana Diller & Framework'ler
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php,perl,swift,c" />
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass,jquery" />
+⚙️ Backend & Veritabanı
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase" />
+🔧 Araçlar & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,linux" />
+🎮 Oyun Geliştirme & Modding
+<img src="https://skillicons.dev/icons?i=unity,unreal,lua,blender" /> </div>
+💼 Uzmanlık Alanlarım
+<div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /><br /> <strong>ASP.NET Development</strong><br /> <sub>Web API & MVC</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/ERP-FF6B35?style=for-the-badge&logo=sap&logoColor=white" /><br /> <strong>ERP Sistemleri</strong><br /> <sub>Kurumsal çözümler</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white" /><br /> <strong>Full Stack Web</strong><br /> <sub>Frontend + Backend</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Game_Dev-F38181?style=for-the-badge&logo=unity&logoColor=white" /><br /> <strong>Oyun Modding</strong><br /> <sub>Unity & Custom Mods</sub> </td> </tr> </table> </div>
+📊 GitHub İstatistiklerim
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=6" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" /> </div>
+🎯 Öne Çıkan Projelerim
+<div align="center"> <table> <tr> <td width="50%">
+🖥️ PC Parts Store
+E-ticaret Platformu (Demo)
+
+🔍 Gelişmiş arama & filtreleme
+
+Tech: HTML, CSS, Bootstrap
+
+<div align="center"> <a href="http://bilgisayarparcasisatan.somee.com/"> <img src="https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </div> </td> <td width="50%">
+✅ TaskMaster
+Modern Todo App
+
+🌙 Dark Mode
+
+📱 Responsive
+
+💾 Local Storage
+
+⚡ Minimal & hızlı
+
+Tech: HTML, CSS, JS
+
+<div align="center"> <a href="https://geoarda.github.io/TaskMaster/"> <img src="https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /> </a> <a href="https://github.com/geoarda/TaskMaster"> <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> </tr> <tr> <td width="50%">
+🧮 CodeCalcPro
+🎨 Çoklu tema
+
+📐 Gelişmiş matematiksel işlemler
+
+📱 Mobile-first
+
+Tech: HTML, CSS, JS
+
+<div align="center"> <a href="https://geoarda.github.io/CodeCalcPro/"> <img src="https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /> </a> <a href="https://github.com/geoarda/CodeCalcPro"> <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> <td width="50%">
+🎮 Oyun Modları & Projeler
+🎯 Özel mekanikler
+
+🎨 Gelişmiş efektler
+
+⚙️ Performans optimizasyonu
+
+Tech: Unity, C#, Lua
+
+</td> </tr> </table> </div>
+💡 Teknik Yeteneklerim
+<div align="center"> <table> <tr> <td width="50%" align="center">
+🏢 Backend & Enterprise
+ASP.NET Core
+
+ASP.NET MVC
+
+Entity Framework
+
+REST API
+
+SQL Server / PostgreSQL
+
+ERP System Design
+
+</td> <td width="50%" align="center">
+🎨 Frontend & UI
+React / Next.js
+
+Tailwind / Bootstrap
+
+Responsive Design
+
+TypeScript
+
+UI/UX Best Practices
+
+</td> </tr> <tr> <td width="50%" align="center">
+🎮 Oyun Geliştirme
+Unity Engine
+
+C# Gameplay
+
+Lua Scripting
+
+Modding & Tools
+
+</td> <td width="50%" align="center">
+🔧 DevOps & Tools
+Git / GitHub
+
+Docker
+
+Visual Studio
+
+VS Code
+
+Postman
+
+Database Management
+
+</td> </tr> </table> </div>
+🌐 Bağlantılar
+<div align="center"> <a href="https://www.linkedin.com/in/arda-a-020bb5380/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/geoarda"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+💼 Fırsatlara Açığım
+<div align="center">
+🚀 Freelance Projeler
+🤝 İşbirlikleri
+💡 Danışmanlık
+
+</div>
+<div align="center">
+🎯 Profil Görüntülenmeleri
+
+
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ziyaret+Ettiğiniz+İçin+Teşekkürler!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" /> <br>
+✨ "Her commit, yeni bir öğrenme fırsatı" ✨
+
+<sub>Arda - FullStack</sub>
+
+</div> ```
