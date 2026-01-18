@@ -88,7 +88,6 @@ const arda = {
 **E-ticaret Platformu**
 - ⚡ Modern e-ticaret çözümü
 - 🔍 Gelişmiş arama & filtreleme
-- 🛒 Tam özellikli sepet sistemi
 - **Tech:** ASP.NET, HTML, CSS, Bootstrap
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](http://bilgisayarparcasisatan.somee.com/)
