@@ -11,10 +11,8 @@ const arda = {
     age: 18,
     location: "İzmir, Turkey 🇹🇷",
     experience: "5+ yıl kodlama deneyimi",
-    github_since: "2020",
+    github_since: "2014",
     passion: "Pratik çözümler üretmek",
-    specialties: ["ASP.NET Development", "Full Stack Web", "ERP Systems"],
-    current_focus: ["Enterprise Solutions", "Backend Development", "Web Technologies"],
     motto: "Kod yazmak, problem çözmektir ✨"
 };
 ```
