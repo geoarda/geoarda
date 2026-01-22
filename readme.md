@@ -16,7 +16,6 @@ const arda = {
     motto: "Kod yazmak, problem çözmektir ✨"
 };
 ```
-
 <div align="center">
 
 ### 💫 Şu Anda
@@ -47,7 +46,7 @@ const arda = {
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,linux" />
 
 ### 🎮 Oyun Geliştirme & Modding
-<img src="https://skillicons.dev/icons?i=unity,unreal,lua,blender" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,lua" />
 
 </div>
 
@@ -75,46 +74,6 @@ const arda = {
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎯 Öne Çıkan Projelerim
-
-<div align="center">
-
-### 🖥️ PC Parts Store
-**E-ticaret Platformu**
-- ⚡ Modern e-ticaret çözümü
-- 🔍 Gelişmiş arama & filtreleme
-- **Tech:** ASP.NET, HTML, CSS, Bootstrap
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](http://bilgisayarparcasisatan.somee.com/)
-
----
-
-### ✅ TaskMaster
-**Modern Todo List Uygulaması**
-- 🌙 Dark mode desteği
-- 📱 Responsive tasarım
-- 💾 Local storage entegrasyonu
-- ⚡ Hızlı ve kullanışlı
-- **Tech:** HTML, CSS, JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://geoarda.github.io/TaskMaster/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda/TaskMaster)
-
----
-
-### 🧮 CodeCalcPro
-**Gelişmiş Hesap Makinesi**
-- 🎨 Çoklu renk temaları
-- 📐 İleri düzey matematiksel işlemler
-- 🔧 Temiz, sezgisel arayüz
-- 📱 Mobile-first tasarım
-- **Tech:** HTML, CSS, JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://geoarda.github.io/CodeCalcPro/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda/CodeCalcPro)
 
 ---
 
