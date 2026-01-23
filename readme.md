@@ -43,7 +43,7 @@ const arda = {
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase" />
 
 ### 🔧 Araçlar & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux" />
 
 ### 🎮 Oyun Geliştirme & Modding
 <img src="https://skillicons.dev/icons?i=unity,unreal,lua" />
